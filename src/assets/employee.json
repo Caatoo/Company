@@ -1,0 +1,28 @@
+[
+    {
+    "userId":"1",
+    "name":"Edin Hodzic",
+    "age":"25"
+    },
+    {
+    "userId":"2",
+    "name":"Ivan Perkovic",
+    "age":"22"
+    },
+    {
+    "userId":"3",
+    "name":"Thomas Heinz",
+    "age":"31"
+    },
+    {
+    "userId":"4",
+    "name":"Matias Mclaren",
+    "age":"28"
+    },
+    {
+    "userId":"5",
+    "name":"David Mussollini",
+    "age":"24"
+    }
+]
+    
